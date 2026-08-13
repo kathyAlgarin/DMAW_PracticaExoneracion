@@ -1,0 +1,17 @@
+Controllers/
+-   Contiene las clases encargads de recibir peticiones HTTP, procesar dicha entrada, pasando los respectivos datos a los services, y determinar que respuesta se devuelve al cliente.
+
+Models/
+-   Aqui se definen reglas de negocio y estructuras de datos. Aqui se ubican las clases que representan las entidades que luego se podrían mapear a la base de datos.
+
+Views/
+-   Esta es la carpeta destinada a las interfaces de usuario, contiene plantillas encargadas de renderizar y mostrar el HTML final.
+
+wwwroot/
+-   Directorio raíz público de la web. Almacena los archivos estáticos que el navegador del usuario seleccionará, tales como archivos CSS, Javascript, etc.
+
+Program.cs
+-   Punto de entrada de la aplicación, aquí se definen configuraciones generales del proyecto, inyectando servicios necesarios y se establece el flujo de como se enrutan las peticiones HTTP
+
+appsettings.json
+-   Archivo principal de configuración. Se utiliza para almacenar de forma ordenada las variables del entorno, cadenas de conexión a la db, claves de APIs externas, etc.
