@@ -9,7 +9,12 @@ namespace PracticaExoneracion.Controllers
 
         public IActionResult Index()
         {
-            return View();
+            ViewData["NombreEstudiante"] = "Katherinne Jeannette Cruz Algarin";
+            ViewData["Carrera"] = "Ingeniería en desarrollo de software";
+            ViewData["Materia"] = "Desarrollo Multiplataforma de Aplicaciones";
+            ViewData["Seccion"] = "A";
+
+            return View("Infoestudiante");
         }
 
     }
