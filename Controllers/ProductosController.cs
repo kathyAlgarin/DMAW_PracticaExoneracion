@@ -15,6 +15,7 @@ public class ProductosController : Controller
 
     public IActionResult Index()
     {
+        ViewData["Titulo"] = "Catálogo de Productos";
         return View();
     }
 }
