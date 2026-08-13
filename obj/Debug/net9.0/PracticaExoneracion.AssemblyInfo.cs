@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PracticaExoneracion")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0a186f6adf203e38629916cc0f3e9aaf37f27204")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+86111671ad0e21003c4d2adcbc6196bc4270e8c1")]
 [assembly: System.Reflection.AssemblyProductAttribute("PracticaExoneracion")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PracticaExoneracion")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
