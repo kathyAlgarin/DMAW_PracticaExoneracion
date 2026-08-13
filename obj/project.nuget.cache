@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "MjcPCixIgoY=",
+  "dgSpecHash": "WbUrDi86CfI=",
   "success": true,
   "projectFilePath": "C:\\Users\\kathy\\Desktop\\Ciclo8\\DesarrolloMultiplataformaAplicaciones\\Semana6\\PracticaExoneracion\\PracticaExoneracion.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\kathy\\.nuget\\packages\\sqlite\\3.53.4\\sqlite.3.53.4.nupkg.sha512",
     "C:\\Users\\kathy\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\9.0.12\\microsoft.windowsdesktop.app.ref.9.0.12.nupkg.sha512",
     "C:\\Users\\kathy\\.nuget\\packages\\microsoft.netcore.app.ref\\9.0.12\\microsoft.netcore.app.ref.9.0.12.nupkg.sha512",
     "C:\\Users\\kathy\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\9.0.12\\microsoft.aspnetcore.app.ref.9.0.12.nupkg.sha512",
