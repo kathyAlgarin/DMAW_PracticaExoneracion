@@ -16,6 +16,9 @@ public class ProductosController : Controller
     public IActionResult Index()
     {
         ViewData["Titulo"] = "Catálogo de Productos";
+        var productos = ObtenerProductos();
+        ViewBag.TotalProductos = productos.Count;
+        ViewBag.NombreTienda = "TechStore";
         return View();
     }
 }
