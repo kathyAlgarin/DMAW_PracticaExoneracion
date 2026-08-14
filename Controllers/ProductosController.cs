@@ -19,6 +19,6 @@ public class ProductosController : Controller
         var productos = ObtenerProductos();
         ViewBag.TotalProductos = productos.Count;
         ViewBag.NombreTienda = "TechStore";
-        return View();
+        return View(productos);
     }
 }
